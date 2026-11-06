@@ -1,0 +1,21 @@
+node_modules/
+dist/
+build/
+coverage/
+
+# Local environment files (copy .env.example to .env)
+.env
+.env.local
+.env.*.local
+
+# Tooling caches and scratch directories
+.npm-cache/
+.probe/
+.vite/
+*.log
+logs/
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
